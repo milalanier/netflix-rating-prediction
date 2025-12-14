@@ -37,7 +37,7 @@ Key preprocessing steps included:
 
   The model was trained using Scikit learn pipeline to ensure clean preprocessing and reproducibility.
 
-  ## Evaluation Metrica
+  ## Evaluation Metrics
 
   Model performance was evaluated using:
   * R2 score
