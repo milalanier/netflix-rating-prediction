@@ -69,13 +69,6 @@ Key preprocessing steps included:
   * Scikit-Learn
   * Matplotlib, Seaborn
   * Google Collab
-  
-  Project Structure
-
-  |___ netflix_rating_predictions.ipynb
-  |___ README.md
-  |___ data/
-    |__ netflix_movies.csv
 
   ## How to Run
     1. Clone the repository
